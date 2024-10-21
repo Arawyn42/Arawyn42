@@ -1,10 +1,10 @@
 # 👋 Bienvenue sur mon GitHub / Welcome to my GitHub
 
-[English Version](#english-version) | [Version Française](#version-fran%c3%a7aise)
+[Version Française](#version-fran%c3%a7aise) | [English Version](#english-version)
 
 ---
 
-## Version Française
+## Version française
 
 Je suis **David Renassia**, développeur passionné par l'informatique, les jeux vidéo, l'intelligence artificielle, et de manière plus générale par les nouvelles technologies et tout ce qui touche au code. Je suis actuellement en fin de parcours à l'**École 42 de Perpignan** où j'ai réalisé divers projets qui m'ont permis d'acquérir des connaissances et compétences en développement logiciel, programmation bas-niveau (C), programmation orientée objet (C++), programmation web (HTML, CSS, JavaScript), serveurs HTTP...
 
@@ -68,7 +68,7 @@ N'hésitez pas à parcourir mes projets et à me contacter pour toute opportunit
 
 ---
 
-## English Version
+## English version
 
 I am **David Renassia**, a French developer passionate about computer science, video games, artificial intelligence, and new technologies in general. I am currently finishing my journey at **École 42 in Perpignan (France)**, where I have worked on various projects that allowed me to acquire skills in software development, low-level programming (C), object-oriented programming (C++), web programming (HTML, CSS, JavaScript), HTTP servers, and more.
 
