@@ -62,7 +62,7 @@ Une Single-Page Application (SPA) du jeu Pong en JavaScript, avec possibilité d
 
 ## 💼 Contact
 - **Email** : david.renassia.dev@gmail.com
-- **LinkedIn** : [David Renassia](https://www.linkedin.com/in/david-renassia-269a0232a/)
+- **LinkedIn** : [David Renassia](https://www.linkedin.com/in/david-renassia-dev/)
 
 N'hésitez pas à parcourir mes projets et à me contacter pour toute opportunité ou collaboration, ou si vous souhaitez de plus amples informations concernant ma recherche de stage.
 
@@ -126,6 +126,6 @@ A Single-Page Application (SPA) of the game Pong in JavaScript, with the option 
 
 ## 💼 Contact
 - **Email**: david.renassia.dev@gmail.com
-- **LinkedIn**: [David Renassia](https://www.linkedin.com/in/david-renassia-269a0232a/)
+- **LinkedIn**: [David Renassia](https://www.linkedin.com/in/david-renassia-dev/)
 
 Feel free to browse my projects and contact me for any opportunity or collaboration, or if you would like more information regarding my internship search.
