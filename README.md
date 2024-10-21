@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub / Welcome to my GitHub
 
-[Version Française](#version-fran%c3%a7aise) | [English Version](#english-version)
+[Version française](#version-fran%c3%a7aise) | [English version](#english-version)
 
 ---
 
