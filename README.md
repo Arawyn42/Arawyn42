@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur mon GitHub / Welcome to my GitHub
+# <div align="center">👋 Bienvenue sur mon GitHub / Welcome to my GitHub</div>
 
 [Version française](#version-fran%c3%a7aise) | [English version](#english-version)
 
