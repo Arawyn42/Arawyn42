@@ -60,6 +60,10 @@ Un serveur HTTP réalisé en C++, respectant certaines normes du protocole HTTP/
 
 ### [🎮 transcendence](https://github.com/Arawyn42/42_transcendence)
 Une Single-Page Application (SPA) du jeu Pong en JavaScript, avec possibilité de jouer contre une IA ou en multijoueur. Ce projet a renforcé mes compétences en développement web, en JavaScript natif, en HTML/CSS, et m'a permis de m'initier à la conception de jeux utilisant un serveur et une base de données. Cela m'a également appris à utiliser des outils comme Django (Python) pour le backend, à gérer et sécuriser des sessions utilisateurs et à utiliser des cookies.
+
+### [🎮 Zen Idle](https://github.com/Arawyn42/ZenIdle)
+Projet personnel réalisé avec Godot Engine. Petit Idle Game dont le but est de gagner le plus de Zen Points possible en améliorant la Zen Machine.
+
 <br><br>
 
 ## <div align="center">💼 Contact</div>
@@ -126,6 +130,10 @@ An HTTP server written in C++, complying with certain HTTP/1.1 protocol standard
 
 ### [🎮 transcendence](https://github.com/Arawyn42/42_transcendence)
 A Single-Page Application (SPA) of the game Pong in JavaScript, with the option to play against AI or in multiplayer mode. This project strengthened my skills in web development, native JavaScript, HTML/CSS, and introduced me to game design using a server and a database. It also taught me to use tools like Django (Python) for the backend, manage and secure user sessions, and use cookies.
+
+### [🎮 Zen Idle](https://github.com/Arawyn42/ZenIdle)
+Personnal project realised with Godot Engine. Small Idle Game where the objective is to win the more Zen Points as you can by upgrading the Zen Machine.
+
 <br><br>
 
 ## <div align="center">💼 Contact</div>
