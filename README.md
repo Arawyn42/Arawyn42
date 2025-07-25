@@ -6,8 +6,6 @@
 <details open>
 <summary><strong>Version française</strong></summary>
 
-<br>
-
 <!------------------------------------- Présentation ------------------------------------>
 ## <div align="center">👨‍💻 Présentation</div>
 
@@ -29,15 +27,17 @@ Je suis particulièrement motivé par les projets complexes, la recherche de sol
 <!----------------------------- Expériences professionnelles ---------------------------->
 ### 💼 Expériences professionnelles
 
-<!-- Largo Group -->
+<!---------------------- Largo Group ----------------------->
 <details>
-<summary>🏢 <strong>Largo Group</strong> : Développeur full-stack</summary><br>
+<summary>🏢 <strong>Largo Group</strong> : Développeur full-stack</summary>
+
+---
 
 ⏳ **6 mois d'expérience professionnelle**, entre janvier 2025 et juillet 2025, en tant que **développeur full-stack** chez **Largo Group**, une startup développant l'application **Yeeeva**, une solution optimale de gestion de projets.
 
-
+<!-- Historique GitHub -->
 <details>
-<summary>📊 <strong>Historique de contributions GitHub (compte pro)</strong></summary>
+<summary>📊 <strong>Historique de contributions GitHub (compte pro)</strong></summary><br>
 
 ⚠️ Un compte GitHub professionnel requis pour contribuer à Yeeeva. Une fois retiré de l'organisation, mon historique sera publiquement inaccessible.  
 Ci-dessous, une capture de mes **872 contributions** réalisées sur ce compte :
@@ -46,8 +46,9 @@ Ci-dessous, une capture de mes **872 contributions** réalisées sur ce compte :
 
 </details>
 
+<!-- Missions principales -->
 <details>
-<summary>🔧 <strong>Missions principales</strong></summary>
+<summary>🔧 <strong>Missions principales</strong></summary><br>
 
 - Développement de **fonctionnalités avancées** en **React** et **Node.js**, en parfaite autonomie.
 - Conception et implémentation complète de **fonctionnalités clés**, notamment deux modules indépendants : gestion budgétaire et suivi financier.
@@ -63,8 +64,9 @@ Ci-dessous, une capture de mes **872 contributions** réalisées sur ce compte :
 
 </details>
 
+<!-- Ce que j'ai appris -->
 <details>
-<summary>🚀 <strong>Ce que j’ai appris</strong></summary>
+<summary>🚀 <strong>Ce que j’ai appris</strong></summary><br>
 
 - **Développement** et **mise en production** d’un produit réel, dans un cadre contraint (délai, budget, qualité).
 - Collaboration en environnement startup : gestion de **priorités mouvantes**, adaptation rapide et **autonomie forte**.
@@ -73,14 +75,18 @@ Ci-dessous, une capture de mes **872 contributions** réalisées sur ce compte :
 
 </details>
 
+<!-- Compétences renforcées -->
 <details>
-<summary>📈 <strong>Compétences renforcées</strong></summary>
+<summary>📈 <strong>Compétences renforcées</strong></summary><br>
 
 - **JavaScript / TypeScript / React / Node.js / HTML5 / CSS / Tailwind CSS / MUI / AgGrid / DynamoDB**
 - **AWS (Lambda, S3, CloudWatch, Cognito) / Serverless / GitHub**
 - **API REST / architecture backend / gestion des erreurs / tests**
 - **SCRUM / gestion de projet / autonomie / communication technique / rigueur professionnelle**
 </details>
+
+---
+
 </details><br>
 
 
@@ -89,134 +95,207 @@ Ci-dessous, une capture de mes **872 contributions** réalisées sur ce compte :
 
 <!-- libft -->
 <details>
-<summary>🗂️ <strong>libft</strong> : Réimplémentation des fonctions standards du langage C</summary><br>
+<summary>🗂️ <strong>libft</strong> : Réimplémentation des fonctions standards du langage C</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_libft)
 
 Une réimplémentation des fonctions standards du langage C. Ce projet m'a permis de maîtriser les aspects bas-niveau de la programmation en C, ainsi que la gestion de la mémoire et l'optimisation des fonctions courantes. Il m'a également permis de mieux maîtriser les concepts de pointeurs et de listes chaînées.
+
+---
+
 </details>
 
 <!-- ft_printf -->
 <details>
-<summary>🖨️ <strong>ft_printf</strong> : Recodage de la fonction printf en C</summary><br>
+<summary>🖨️ <strong>ft_printf</strong> : Recodage de la fonction printf en C</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_ft_printf)
 
 Un exercice essentiel pour comprendre le formatage de chaînes, la gestion des arguments variadiques et la manipulation de mémoire dynamique.
+
+---
+
 </details>
 
 <!-- get_next_line -->
 <details>
-<summary>📄 <strong>get_next_line</strong> : Lecture ligne par ligne d’un fichier</summary><br>
+<summary>📄 <strong>get_next_line</strong> : Lecture ligne par ligne d’un fichier</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_get_next_line)
 
 Création d'une fonction permettant de lire la prochaine ligne d'un descripteur de fichier. Ce projet m'a aidé à développer des compétences en gestion de fichiers et en manipulation de buffers.
+
+---
+
 </details>
 
 <!-- born2beroot -->
 <details>
-<summary>🖥️ <strong>born2beroot</strong> : Installation et configuration Linux</summary><br>
+<summary>🖥️ <strong>born2beroot</strong> : Installation et configuration Linux</summary>
+
+---
 
 Mise en place et configuration d'une machine virtuelle tournant sous Linux. Ce projet m'a permis de me familiariser avec les environnements systèmes, la gestion des utilisateurs et la sécurité réseau.
+
+---
+
 </details>
 
 <!-- ft_printf -->
 <details>
-<summary>👾 <strong>so_long</strong> : Jeu 2D en C avec la librairie graphique MLX</summary><br>
+<summary>👾 <strong>so_long</strong> : Jeu 2D en C avec la librairie graphique MLX</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_so_long)
 
 Un petit jeu vidéo en 2D réalisé avec la librairie graphique de 42 (la MLX) en C. Ce projet m'a initié à la programmation graphique, la gestion des événements et l'interaction utilisateur dans un contexte de jeu vidéo écrit avec un langage de programmation bas niveau et non orienté objet.
+
+---
+
 </details>
 
 <!-- push_swap -->
 <details>
-<summary>📟 <strong>push_swap</strong> : Algorithme de tri optimisé avec contraintes</summary><br>
+<summary>📟 <strong>push_swap</strong> : Algorithme de tri optimisé avec contraintes</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_push_swap)
 
 Création d'un algorithme de tri pour un ensemble de nombres en respectant certaines contraintes. J'ai pu explorer diverses stratégies algorithmiques et optimiser les performances pour minimiser le nombre de mouvements nécessaires.
+
+---
+
 </details>
 
 <!-- pipex -->
 <details>
-<summary>🤲🏼 <strong>pipex</strong> : Reproduction du comportement d’un pipe UNIX</summary><br>
+<summary>🤲🏼 <strong>pipex</strong> : Reproduction du comportement d’un pipe UNIX</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_pipex)
 
 Création d'un petit programme en C reproduisant le comportement d'un pipe '|'. Cela m'a permis d'apprendre à manipuler les descripteurs de fichiers et à utiliser les forks.
+
+---
+
 </details>
 
 <!-- philosophers -->
 <details>
-<summary>🧑🏼‍🎓 <strong>philosophers</strong> : Multi-threading en C</summary><br>
+<summary>🧑🏼‍🎓 <strong>philosophers</strong> : Multi-threading en C</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_philosophers)
 
 Un projet basé sur le problème classique des philosophes, utilisant le multi-threading en C. Ce projet m'a permis de me familiariser avec la gestion des threads, des mutex, et les concepts de concurrence et de parallélisme.
+
+---
+
 </details>
 
 <!-- minishell -->
 <details>
-<summary>◼️ <strong>minishell</strong> : Terminal de type bash avec builtins</summary><br>
+<summary>◼️ <strong>minishell</strong> : Terminal de type bash avec builtins</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_minishell)
 
 Création d'un terminal de type bash avec certaines commandes intégrées (builtins). Ce projet a consolidé mes compétences en **systèmes UNIX**, en gestion de processus et en parsing de commandes. Cela a également renforcé mes connaissances des commandes bash et shell.
+
+---
+
 </details>
 
 <!-- netpractice -->
 <details>
-<summary>📶 <strong>netpractice</strong> : Simulation de configuration réseau</summary><br>
+<summary>📶 <strong>netpractice</strong> : Simulation de configuration réseau</summary>
+
+---
 
 Un projet de simulation de réseau qui m'a permis d'acquérir des compétences en configuration de réseaux, en adressage IP, et en dépannage de configurations réseau.
+
+---
+
 </details>
 
 <!-- miniRT -->
 <details>
-<summary>📽️ <strong>miniRT</strong> : Ray-tracer minimaliste en C</summary><br>
+<summary>📽️ <strong>miniRT</strong> : Ray-tracer minimaliste en C</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_miniRT)
 
 Un ray-tracer minimaliste réalisé en C, générant des images en 3D à partir de scènes définies par des paramètres géométriques. Ce projet m'a permis de découvrir les bases du rendu 3D et des algorithmes de raytracing.
+
+---
+
 </details>
 
 <!-- inception -->
 <details>
-<summary>♾️ <strong>inception</strong> : Infrastructure Docker multi-services</summary><br>
+<summary>♾️ <strong>inception</strong> : Infrastructure Docker multi-services</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_inception)
 
 Déploiement de conteneurs Docker pour héberger un site, un serveur et une base de données. J'ai appris à orchestrer des conteneurs et à travailler avec Docker-Compose pour automatiser le déploiement d'une infrastructure multi-services.
+
+---
+
 </details>
 
 <!-- CPP_modules -->
 <details>
-<summary>👨🏻‍💻 <strong>CPP_modules</strong> : Modules C++ orientés objets</summary><br>
+<summary>👨🏻‍💻 <strong>CPP_modules</strong> : Modules C++ orientés objets</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_cpp)
 
 10 modules permettant d'apprendre le C++. J'y ai appris les bases du C++, la programmation orientée objet et des concepts comme les classes, les héritages, les templates, les containers, la forme de Coplien, la surcharge d'opérateurs, etc.
+
+---
+
 </details>
 
 <!-- webserv -->
 <details>
-<summary>🛜 <strong>webserv</strong> : Serveur HTTP en C++</summary><br>
+<summary>🛜 <strong>webserv</strong> : Serveur HTTP en C++</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_webserv)
 
 Un serveur HTTP réalisé en C++, respectant certaines normes du protocole HTTP/1.1. Ce projet m'a permis de mieux comprendre le fonctionnement des serveurs web et la gestion des requêtes HTTP.
+
+---
+
 </details>
 
 <!-- transcendence -->
 <details>
-<summary>🎮 <strong>transcendence</strong> : SPA du jeu Pong avec IA et multi</summary><br>
+<summary>🎮 <strong>transcendence</strong> : SPA du jeu Pong avec IA et multi</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_transcendence)
 
 Une Single-Page Application (SPA) du jeu Pong en JavaScript, avec possibilité de jouer contre une IA ou en multijoueur. Ce projet a renforcé mes compétences en développement web, en JavaScript natif, en HTML/CSS, et m'a permis de m'initier à la conception de jeux utilisant un serveur et une base de données. Cela m'a également appris à utiliser des outils comme Django (Python) pour le backend, à gérer et sécuriser des sessions utilisateurs et à utiliser des cookies.
-</details>
+
+---
 
 </details><br>
 
@@ -224,16 +303,17 @@ Une Single-Page Application (SPA) du jeu Pong en JavaScript, avec possibilité d
 ### 📚 Projets personnels
 
 <details>
-<summary>🎮 <strong>Zen Idle</strong> : Idle Game avec Godot Engine</summary><br>
+<summary>🎮 <strong>Zen Idle</strong> : Idle Game avec Godot Engine</summary>
+
+---
 
 🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/ZenIdle)
 
 Projet personnel réalisé avec Godot Engine. Petit Idle Game dont le but est de gagner le plus de Zen Points possible en améliorant la Zen Machine.
-</details>
 
-</details>
+---
 
-<br>
+</details><br>
 
 <!--------------------------------------- Contact --------------------------------------->
 ## <div align="center">💼 Contact</div>
@@ -243,6 +323,8 @@ Projet personnel réalisé avec Godot Engine. Petit Idle Game dont le but est de
 N'hésitez pas à parcourir mes projets et à me contacter pour toute opportunité ou collaboration, ou si vous souhaitez de plus amples informations concernant ma recherche d'alternance.
 
 </details>
+</details>
+
 
 ---
 
