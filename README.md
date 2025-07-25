@@ -323,8 +323,299 @@ Projet personnel réalisé avec Godot Engine. Petit Idle Game dont le but est de
 N'hésitez pas à parcourir mes projets et à me contacter pour toute opportunité ou collaboration, ou si vous souhaitez de plus amples informations concernant ma recherche d'alternance.
 
 </details>
+
 </details>
 
 
+<details>
+<summary><strong>English version</strong></summary>
+
+<!------------------------------------- Introduction ------------------------------------>
+## <div align="center">👨‍💻 Introduction</div>
+
+I’m **David Renassia**, a passionate developer fascinated by computer science, video games, artificial intelligence, and new technologies in general—especially everything related to code.
+
+After a **6-month professional experience** as a full-stack developer in a tech startup, I am currently looking for a **two-year work-study position** as part of the **RNCP title “Expert in IT Architecture”**, specializing in **Data Architecture**, at **École 42 Perpignan**.
+
+My skills include **software development**, **low-level programming (C)**, **object-oriented programming (C++)**, and **web development** (HTML, CSS, JavaScript, React, Node.js), as well as **game development** (Godot, Unity). I’m also proficient with tools like **Docker**, **Git**, and **serverless architecture** using AWS.
+
+I am particularly motivated by complex projects, the search for elegant technical solutions, and the creation of immersive user experiences.
+
+🎯 **I am immediately available** for a work-study position and ready to invest myself in high-potential technical and human projects.
+
+<br>
+
+<!----------------------------------- Completed Projects ---------------------------------->
+## <div align="center">🚀 Completed Projects</div>
+
+<!----------------------------- Professional Experience ---------------------------->
+### 💼 Professional Experience
+
+<!-- Largo Group -->
+<details>
+<summary>🏢 <strong>Largo Group</strong>: Full-stack developer</summary>
+
 ---
 
+⏳ **6 months of professional experience**, from January 2025 to July 2025, as a **full-stack developer** at **Largo Group**, a tech startup developing the **Yeeeva** app—an optimized project management solution.
+
+<!-- GitHub contribution history -->
+<details>
+<summary>📊 <strong>GitHub Contributions History (pro account)</strong></summary><br>
+
+⚠️ Contributions were made using a professional GitHub account required for access to Yeeeva’s private repositories. Once removed from the organization, this history will no longer be publicly accessible.  
+Below is a snapshot of my **872 contributions** on this account:
+
+<img src="./assets/pro_github_history_full.png" alt="GitHub History Yeeeva" width="800"/>
+
+</details>
+
+<!-- Main missions -->
+<details>
+<summary>🔧 <strong>Main missions</strong></summary><br>
+
+- Developed **advanced features** using **React** and **Node.js**, fully autonomously.
+- Designed and implemented **key functionalities**, including two independent modules: budget management and financial tracking.
+- Created and integrated **NoSQL APIs**, managing data models with **DynamoDB**.
+- Integrated and consumed **third-party APIs** (file handling, image processing, emails...).
+- **UX optimization** (MUI, AgGrid, Tailwind CSS...).
+- Maintained the **cloud infrastructure** on **AWS** (Lambda, S3, Cloudwatch...).
+- **Advanced debugging** and **technical support** for the development team.
+- Wrote **technical documentation**, including internal specifications and user guides.
+- Served as **technical referent** for a team of 8 developers.
+- Conducted user testing, QA, and regression testing.
+- Managed development and production environments.
+
+</details>
+
+<!-- What I learned -->
+<details>
+<summary>🚀 <strong>What I learned</strong></summary><br>
+
+- Developed and deployed a **real production product** within tight deadlines and budget constraints.
+- Gained experience in a **startup environment**: managing shifting priorities, fast adaptation, and high autonomy.
+- Deepened my knowledge of **AWS** and **serverless architecture**.
+- Took on a **central technical role** (tech lead & DevOps) despite being an intern.
+
+</details>
+
+<!-- Skills -->
+<details>
+<summary>📈 <strong>Skills reinforced</strong></summary><br>
+
+- **JavaScript / TypeScript / React / Node.js / HTML5 / CSS / Tailwind CSS / MUI / AgGrid / DynamoDB**
+- **AWS (Lambda, S3, CloudWatch, Cognito) / Serverless / GitHub**
+- **REST APIs / backend architecture / error handling / testing**
+- **SCRUM / project management / autonomy / technical communication / professional rigor**
+
+</details>
+
+---
+
+</details><br>
+
+<!--------------------------- 42 School Projects ---------------------------->
+### 📚 Projects from École 42
+
+<!-- Each project follows the same format -->
+<details><summary>🗂️ <strong>libft</strong>: Reimplementation of standard C functions</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_libft)
+
+A reimplementation of standard C functions. This project allowed me to master low-level programming, memory management, and optimization of common functions. I also improved my understanding of pointers and linked lists.
+
+---
+
+</details>
+
+<details><summary>🖨️ <strong>ft_printf</strong>: Rewriting the printf function in C</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_ft_printf)
+
+A key exercise to understand string formatting, variadic arguments, and dynamic memory handling.
+
+---
+
+</details>
+
+<details><summary>📄 <strong>get_next_line</strong>: Line-by-line file reading</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_get_next_line)
+
+Creation of a function to read the next line from a file descriptor. Helped develop skills in file handling and buffer manipulation.
+
+---
+
+</details>
+
+<details><summary>🖥️ <strong>born2beroot</strong>: Linux installation and configuration</summary>
+
+---
+
+Setup and configuration of a virtual machine running Linux. Introduced me to system environments, user management, and network security.
+
+---
+
+</details>
+
+<details><summary>👾 <strong>so_long</strong>: 2D game in C using MLX graphics library</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_so_long)
+
+A 2D game in C using the MLX library. Taught me about graphic programming, event handling, and user interaction in a low-level non-OOP language.
+
+---
+
+</details>
+
+<details><summary>📟 <strong>push_swap</strong>: Sorting algorithm with constraints</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_push_swap)
+
+Created an optimized sorting algorithm under strict operational constraints. Explored various algorithmic strategies and performance optimizations.
+
+---
+
+</details>
+
+<details><summary>🤲🏼 <strong>pipex</strong>: Reproducing UNIX pipe behavior</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_pipex)
+
+Created a small C program replicating the behavior of a UNIX pipe (`|`). Learned to handle file descriptors and forks.
+
+---
+
+</details>
+
+<details><summary>🧑🏼‍🎓 <strong>philosophers</strong>: Multithreading in C</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_philosophers)
+
+A multithreaded implementation of the classical dining philosophers problem. Helped me understand threads, mutexes, concurrency, and parallelism.
+
+---
+
+</details>
+
+<details><summary>◼️ <strong>minishell</strong>: Bash-like terminal with builtins</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_minishell)
+
+Creation of a Bash-like shell supporting built-in commands. Strengthened my skills in UNIX systems, process management, and command parsing.
+
+---
+
+</details>
+
+<details><summary>📶 <strong>netpractice</strong>: Network configuration simulation</summary>
+
+---
+
+A networking simulation project that helped me learn about IP addressing, routing, and troubleshooting misconfigured systems.
+
+---
+
+</details>
+
+<details><summary>📽️ <strong>miniRT</strong>: Minimal raytracer in C</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_miniRT)
+
+A raytracer that renders 3D scenes using basic geometric parameters. Helped me learn 3D rendering and raytracing algorithms.
+
+---
+
+</details>
+
+<details><summary>♾️ <strong>inception</strong>: Multi-service Docker infrastructure</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_inception)
+
+Deployed Docker containers to host a website, server, and database. Learned to orchestrate containers and automate deployment with Docker Compose.
+
+---
+
+</details>
+
+<details><summary>👨🏻‍💻 <strong>CPP_modules</strong>: Object-oriented C++ modules</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_cpp)
+
+10 modules to learn C++ and OOP principles, including classes, inheritance, templates, the Coplien form, operator overloading, and containers.
+
+---
+
+</details>
+
+<details><summary>🛜 <strong>webserv</strong>: HTTP server in C++</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_webserv)
+
+An HTTP server in C++, compliant with parts of the HTTP/1.1 standard. Improved my understanding of web server behavior and request handling.
+
+---
+
+</details>
+
+<details><summary>🎮 <strong>transcendence</strong>: SPA Pong game with AI and multiplayer</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_transcendence)
+
+A single-page Pong game app using JavaScript, with AI and multiplayer support. Strengthened my web dev skills and introduced me to Django backend, sessions, and cookies.
+
+---
+
+</details><br>
+
+<!---------------------------------- Personal Projects ---------------------------------->
+### 📚 Personal Projects
+
+<details>
+<summary>🎮 <strong>Zen Idle</strong>: Idle Game made with Godot Engine</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/ZenIdle)
+
+A personal project made with Godot Engine. Zen Idle is a simple game where the goal is to collect as many Zen Points as possible by upgrading the Zen Machine.
+
+---
+
+</details><br>
+
+<!-------------------------------------- Contact ---------------------------------------->
+## <div align="center">💼 Contact</div>
+
+- **Email**: david.renassia.dev@gmail.com  
+- **LinkedIn**: [David Renassia](https://www.linkedin.com/in/david-renassia-dev/)
+
+Feel free to browse my projects and contact me for any opportunity, collaboration, or if you’d like to know more about my work-study search.
+
+</details>
