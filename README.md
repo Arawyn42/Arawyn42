@@ -297,6 +297,21 @@ Une Single-Page Application (SPA) du jeu Pong en JavaScript, avec possibilité d
 
 ---
 
+</details>
+
+<!-- dr-quine -->
+<details>
+<summary>🧩 <strong>dr-quine</strong> : Programmes autoréplicatifs (quines)</summary>
+
+---
+
+🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_dr-quine)
+
+Un projet autour des **quines** — des programmes capables de reproduire leur propre code source sans le lire depuis un fichier.  
+Ce projet permet de mieux comprendre la récursivité, l’autoréférence et les limites des systèmes formels, tout en manipulant différents langages bas-niveau et interprétés.
+
+---
+
 </details><br>
 
 <!---------------------------------- Projets personnels --------------------------------->
@@ -417,7 +432,7 @@ Below is a snapshot of my **872 contributions** on this account:
 <!--------------------------- 42 School Projects ---------------------------->
 ### 📚 Projects from École 42
 
-<!-- Each project follows the same format -->
+<!-- libft -->
 <details><summary>🗂️ <strong>libft</strong>: Reimplementation of standard C functions</summary>
 
 ---
@@ -430,6 +445,7 @@ A reimplementation of standard C functions. This project allowed me to master lo
 
 </details>
 
+<!-- ft_printf -->
 <details><summary>🖨️ <strong>ft_printf</strong>: Rewriting the printf function in C</summary>
 
 ---
@@ -442,6 +458,7 @@ A key exercise to understand string formatting, variadic arguments, and dynamic 
 
 </details>
 
+<!-- get_next_line -->
 <details><summary>📄 <strong>get_next_line</strong>: Line-by-line file reading</summary>
 
 ---
@@ -454,6 +471,7 @@ Creation of a function to read the next line from a file descriptor. Helped deve
 
 </details>
 
+<!-- born2beroot -->
 <details><summary>🖥️ <strong>born2beroot</strong>: Linux installation and configuration</summary>
 
 ---
@@ -464,6 +482,7 @@ Setup and configuration of a virtual machine running Linux. Introduced me to sys
 
 </details>
 
+<!-- so_long -->
 <details><summary>👾 <strong>so_long</strong>: 2D game in C using MLX graphics library</summary>
 
 ---
@@ -476,6 +495,7 @@ A 2D game in C using the MLX library. Taught me about graphic programming, event
 
 </details>
 
+<!-- push_swap -->
 <details><summary>📟 <strong>push_swap</strong>: Sorting algorithm with constraints</summary>
 
 ---
@@ -488,6 +508,7 @@ Created an optimized sorting algorithm under strict operational constraints. Exp
 
 </details>
 
+<!-- pipex -->
 <details><summary>🤲🏼 <strong>pipex</strong>: Reproducing UNIX pipe behavior</summary>
 
 ---
@@ -500,6 +521,7 @@ Created a small C program replicating the behavior of a UNIX pipe (`|`). Learned
 
 </details>
 
+<!-- philosophers -->
 <details><summary>🧑🏼‍🎓 <strong>philosophers</strong>: Multithreading in C</summary>
 
 ---
@@ -512,6 +534,7 @@ A multithreaded implementation of the classical dining philosophers problem. Hel
 
 </details>
 
+<!-- minishell -->
 <details><summary>◼️ <strong>minishell</strong>: Bash-like terminal with builtins</summary>
 
 ---
@@ -524,6 +547,7 @@ Creation of a Bash-like shell supporting built-in commands. Strengthened my skil
 
 </details>
 
+<!-- netpractice -->
 <details><summary>📶 <strong>netpractice</strong>: Network configuration simulation</summary>
 
 ---
@@ -534,6 +558,7 @@ A networking simulation project that helped me learn about IP addressing, routin
 
 </details>
 
+<!-- miniRT -->
 <details><summary>📽️ <strong>miniRT</strong>: Minimal raytracer in C</summary>
 
 ---
@@ -546,6 +571,7 @@ A raytracer that renders 3D scenes using basic geometric parameters. Helped me l
 
 </details>
 
+<!-- inception -->
 <details><summary>♾️ <strong>inception</strong>: Multi-service Docker infrastructure</summary>
 
 ---
@@ -558,6 +584,7 @@ Deployed Docker containers to host a website, server, and database. Learned to o
 
 </details>
 
+<!-- CPP_modules -->
 <details><summary>👨🏻‍💻 <strong>CPP_modules</strong>: Object-oriented C++ modules</summary>
 
 ---
@@ -570,6 +597,7 @@ Deployed Docker containers to host a website, server, and database. Learned to o
 
 </details>
 
+<!-- webserv -->
 <details><summary>🛜 <strong>webserv</strong>: HTTP server in C++</summary>
 
 ---
@@ -582,6 +610,7 @@ An HTTP server in C++, compliant with parts of the HTTP/1.1 standard. Improved m
 
 </details>
 
+<!-- transcendence -->
 <details><summary>🎮 <strong>transcendence</strong>: SPA Pong game with AI and multiplayer</summary>
 
 ---
@@ -592,7 +621,23 @@ A single-page Pong game app using JavaScript, with AI and multiplayer support. S
 
 ---
 
-</details><br>
+</details>
+
+<!-- dr-quine -->
+<details>
+<summary>🧩 <strong>dr-quine</strong>: Self-replicating programs (quines)</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_dr-quine)
+
+A project about **quines** — programs capable of reproducing their own source code without reading it from a file.  
+This project helps to better understand recursion, self-reference, and the limits of formal systems, while working with both low-level and interpreted languages.
+
+---
+
+</details>
+<br>
 
 <!---------------------------------- Personal Projects ---------------------------------->
 ### 📚 Personal Projects
