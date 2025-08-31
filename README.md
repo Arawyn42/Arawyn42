@@ -312,6 +312,20 @@ Ce projet permet de mieux comprendre la récursivité, l’autoréférence et le
 
 ---
 
+</details>
+
+<!-- malloc -->
+<details>
+<summary>💾 <strong>malloc</strong> : Allocateur mémoire custom</summary>
+
+---
+
+🔗 [Voir le projet sur GitHub](https://github.com/Arawyn42/42_malloc)
+
+Bibliothèque d’allocation mémoire reproduisant le comportement des fonctions `malloc` et `free` de la libc.
+
+---
+
 </details><br>
 
 <!---------------------------------- Projets personnels --------------------------------->
@@ -637,7 +651,20 @@ This project helps to better understand recursion, self-reference, and the limit
 ---
 
 </details>
-<br>
+
+<!-- malloc -->
+<details>
+<summary>💾 <strong>malloc</strong>: Custom memory allocator</summary>
+
+---
+
+🔗 [View project on GitHub](https://github.com/Arawyn42/42_malloc)
+
+A memory allocation library reproducing the behavior of the standard `malloc` and `free` functions from libc.
+
+---
+
+</details><br>
 
 <!---------------------------------- Personal Projects ---------------------------------->
 ### 📚 Personal Projects
